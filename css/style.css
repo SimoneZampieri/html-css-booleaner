@@ -2,9 +2,24 @@ body{
     font-family: sans-serif;
 }
 
+header{
+    padding: auto;
+    width: 100%;
+}
+
 .banner{
-    width: 100%
-    height: 200px;
+    height: 150px;
     background-color: rgb(71, 136, 215);
-    background-repeat: repeat-y;
+}
+
+.banner-content{
+    width: 200px;
+}
+
+.idea{
+    color: rgb(71, 136, 215);
+}
+
+main p{
+    color: grey;
 }
