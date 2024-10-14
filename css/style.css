@@ -14,7 +14,8 @@ header{
     background-size:auto;
 }
 
-.banner-content{
+.logo{
+    margin-top: 50px;
     width: 200px;
 }
 
@@ -34,7 +35,7 @@ table{
     width: 100%;
     text-align: left;
     height: 200px;
-    border: none;
+    border-spacing: 0;
 }
 
 thead{
@@ -44,6 +45,10 @@ thead{
 
 tbody{
     height: 50px;
+}
+
+.td1{
+    width: 50%;
 }
 
 .tr1{
