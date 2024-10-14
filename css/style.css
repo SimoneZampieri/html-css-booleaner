@@ -10,6 +10,7 @@ header{
 .banner{
     height: 150px;
     background-color: rgb(71, 136, 215);
+    background-size: cover;
 }
 
 .banner-content{
@@ -28,3 +29,27 @@ header{
     background-color:rgb(252, 254, 0);
 }
 
+table{
+    width: 100%;
+    text-align: left;
+    height: 200px;
+    border: none;
+}
+
+thead{
+    background-color: rgb(28, 172, 228);
+    text-align: center;
+}
+
+tbody{
+    height: 50px;
+}
+
+.tr1{
+    background-color: #b1e6f2;
+    height: 70px;
+}
+
+.tr2{
+    height: 70px;
+}
