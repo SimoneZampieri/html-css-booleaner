@@ -23,3 +23,8 @@ header{
 .titolo p{
     color: grey;
 }
+
+#yellow{
+    background-color:rgb(252, 254, 0);
+}
+
